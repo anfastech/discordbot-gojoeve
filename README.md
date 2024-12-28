@@ -1,4 +1,4 @@
-# Build your own Discord bot
+# Counter to New Year - Discord bot
 
 This repository contains source code for building a Discord bot using Python.
 
