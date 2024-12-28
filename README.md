@@ -13,4 +13,4 @@ Just go to the main folder, named `Source`
 4. Run the `bot.py` file using `python bot.py` command.
 5. Install the Bot in your Discord server
 
-Happy Coding 😊
+Happy 2025
