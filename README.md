@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f436c3be-c8fb-4b9a-a61f-6d21a7792536)
+![image](https://github.com/user-attachments/assets/700bf033-6ecf-4032-afcd-16cc6384e7b9)
 
 
 # Counter to New Year - Discord bot
