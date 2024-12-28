@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/f436c3be-c8fb-4b9a-a61f-6d21a7792536)
+
+
 # Counter to New Year - Discord bot
 
 This repository contains source code for building a Discord bot using Python.
